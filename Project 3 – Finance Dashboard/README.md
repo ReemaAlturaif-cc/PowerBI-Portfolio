@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This dashboard analyzes financial performance by tracking Sales, profit, costs, and year-over-year growth using advanced DAX calculations.
+This dashboard analyzes financial performance by tracking sales, profit, costs, and year-over-year growth using advanced DAX calculations.
 
 ---
 ## Dataset
@@ -56,7 +56,11 @@ From Microsoft Learn
 
 ---
 ## Dashboard Preview
+![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Report-p1.png)
 
+![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Report-p2.png)
+
+![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Dashboard.png)
 
 ---
 ## 👩‍💻 Author
