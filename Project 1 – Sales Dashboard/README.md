@@ -54,7 +54,7 @@ This project analyzes retail sales performance using Power BI. The dashboard pro
 ## Dashboard Preview 
 ![Sales Dashboard](Sales%20Analysis-Images/Sales%20Report%20p1.png)
 
-![Sales Dashboard](Sales%20Analysis-Images/Sales%20Dashboard.png)
+![Sales Dashboard](Sales%20Analysis-Images/Sales%20Report%20p2.png)
 
 ![Sales Dashboard](Sales%20Analysis-Images/Sales%20Dashboard.png)
 
