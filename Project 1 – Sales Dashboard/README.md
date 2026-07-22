@@ -68,7 +68,11 @@ From kaggle.com
 
 ## Dashboard Preview
 
-![Project 1 – Sales Dashboard](Project%201%20–%20Sales%20Dashboard/Sales%20Analysis-Images/Sales%20Report%20p1.png)
+![Sales Dashboard](Sales Analysis-Images/Sales Dashboard.png)
+
+![Sales Report Page 1](Sales Analysis-Images/Sales Report p1.png)
+
+![Sales Report Page 2](Sales Analysis-Images/Sales Report p2.png)
 
 
 ## 👩‍💻 Author
