@@ -53,7 +53,11 @@ From Kaggle.com
 
 ---
 ## Dashboard Preview
+![HR Dashboard](HR%20Analysis-Images/HR-AnalysisReport-p1.png)
 
+![HR Dashboard](HR%20Analysis-Images/HR-AnalysisReport-p2.png)
+
+![HR Dashboard](HR%20Analysis-Images/HR-Analysis-Dashboard.png)
 
 
 ---
