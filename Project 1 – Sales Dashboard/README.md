@@ -64,13 +64,12 @@ From kaggle.com
 - Technology generated the highest sales.
 - West region achieved the highest revenue.
 
----
 
 ## Dashboard Preview
 
 ![Project 1 – Sales Dashboard](Project%201%20–%20Sales%20Dashboard/Sales Analysis-Images/Sales Report p1.png")
 
----
+
 
 ## 👩‍💻 Author
 
