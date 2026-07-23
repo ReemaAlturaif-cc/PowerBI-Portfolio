@@ -94,6 +94,15 @@ Summarizes the key findings and business recommendations.
 
 ---
 ## Dashboard Preview
+![E-commerce Dashboard](E-commerceAnalysis-Images/E-commerceReport-p1.png)
+
+![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p2.png)
+
+![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p3.png)
+
+![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p4.png)
+
+![Finance Dashboard](E-commerceAnalysis-Images/E-commerce-Dashboard.png)
 
 
 ---
