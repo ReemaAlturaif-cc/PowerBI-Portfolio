@@ -34,7 +34,11 @@ The dataset was originally provided by Olist and published publicly through Kagg
 
 **Source:** [Brazilian E-Commerce Public Dataset by Olist – Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
-**License:** CC BY-NC-SA 4.0
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Attribution:** Dataset by Olist, used under the CC BY-NC-SA 4.0 license. The data was cleaned, modeled, analyzed, and visualized in Power BI as part of an educational portfolio project.
+
+
 ---
 
 ## Data Understanding
