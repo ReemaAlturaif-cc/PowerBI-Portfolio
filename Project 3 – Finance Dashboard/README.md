@@ -27,6 +27,10 @@ The project uses the Microsoft Financial Sample Dataset, which contains financia
 The dataset was selected because it provides a practical business scenario for analyzing financial performance and applying Power BI data modeling, DAX, and Time Intelligence techniques.
 
 **Source:** [Microsoft Learn – Financial Sample Dataset](https://learn.microsoft.com/power-bi/create-reports/sample-financial-download)
+
+**Data Attribution:** Financial Sample data and workbook provided by obviEnce, LLC.  
+obviEnce ©
+
 ---
 
 ## Tools & Technologies
