@@ -77,7 +77,7 @@ The analysis followed these main steps:
 4. **Business Insights**
    - Analyzed employee attrition patterns.
    - Compared workforce distribution across departments and demographic groups.
-     - Examined attrition patterns across departments, job roles, and overtime status.
+   - Examined attrition patterns across departments, job roles, and overtime status.
 
 ---
 
