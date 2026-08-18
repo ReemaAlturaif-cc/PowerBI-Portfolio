@@ -131,10 +131,13 @@ Focuses on employee demographics, income, and work experience:
 
 ---
 ## Dashboard Preview
-![HR Dashboard](HR%20Analysis-Images/HR-AnalysisReport-p1.png)
 
-![HR Dashboard](HR%20Analysis-Images/HR-AnalysisReport-p2.png)
+### Report
+![HR Report](HR%20Analysis-Images/HR-AnalysisReport-p1.png)
 
+![HR Report](HR%20Analysis-Images/HR-AnalysisReport-p2.png)
+
+### Dashboard
 ![HR Dashboard](HR%20Analysis-Images/HR-Analysis-Dashboard.png)
 
 
