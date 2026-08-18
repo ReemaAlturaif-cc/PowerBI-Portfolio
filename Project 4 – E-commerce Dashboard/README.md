@@ -197,8 +197,6 @@ Summarizes the key findings and business insights identified throughout the anal
 
 ## Dashboard Preview
 
-### Executive Dashboard
-
 ### Report
 ![E-commerce Report](E-commerceAnalysis-Images/E-commerceReport-p1.png)
 
