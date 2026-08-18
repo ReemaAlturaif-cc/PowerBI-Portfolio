@@ -141,10 +141,13 @@ Key measures created for the analysis include:
 ---
 
 ## Dashboard Preview
-![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Report-p1.png)
 
-![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Report-p2.png)
+### Report
+![Finance Report](Finance%20Analysis-Images/FinanceAnalysis-Report-p1.png)
 
+![Finance Report](Finance%20Analysis-Images/FinanceAnalysis-Report-p2.png)
+
+### Dashboard
 ![Finance Dashboard](Finance%20Analysis-Images/FinanceAnalysis-Dashboard.png)
 ---
 
