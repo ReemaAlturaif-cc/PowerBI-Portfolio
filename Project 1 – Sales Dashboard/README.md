@@ -128,13 +128,11 @@ Key measures created for the analysis include:
 ## Dashboard Preview 
 
 ### Report
-
 ![Sales Report](Sales%20Analysis-Images/Sales%20Report%20p1.png)
 
 ![Sales Report](Sales%20Analysis-Images/Sales%20Report%20p2.png)
 
 ### Dashboard
-
 ![Sales Dashboard](Sales%20Analysis-Images/Sales%20Dashboard.png)
 
 ---
