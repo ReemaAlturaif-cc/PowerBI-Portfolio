@@ -199,14 +199,16 @@ Summarizes the key findings and business insights identified throughout the anal
 
 ### Executive Dashboard
 
-![E-commerce Dashboard](E-commerceAnalysis-Images/E-commerceReport-p1.png)
+### Report
+![E-commerce Report](E-commerceAnalysis-Images/E-commerceReport-p1.png)
 
-![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p2.png)
+![Finance Report](E-commerceAnalysis-Images/E-commerceReport-p2.png)
 
-![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p3.png)
+![Finance Report](E-commerceAnalysis-Images/E-commerceReport-p3.png)
 
-![Finance Dashboard](E-commerceAnalysis-Images/E-commerceReport-p4.png)
+![Finance Report](E-commerceAnalysis-Images/E-commerceReport-p4.png)
 
+### Dashboard
 ![Finance Dashboard](E-commerceAnalysis-Images/E-commerce-Dashboard.png)
 
 ---
